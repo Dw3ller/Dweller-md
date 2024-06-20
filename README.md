@@ -147,6 +147,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *In that case, I'm not responsible for banning your account.*
 - *Use Venocyber-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Dw3ller/Dweller-md.)
+.(https://dashboard.heroku.com/new?template=https://github.com/Dw3ller/Dweller-md).
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
