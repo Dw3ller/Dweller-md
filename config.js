@@ -6,19 +6,19 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "losrios755@gmail.com";
-global.location = "Njombe,Tanzania.";
+global.email = "dwellerniga@gmail.com";
+global.location = "Nigeria,somewhere.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
-global.github = process.env.GITHUB || "https://github.com/Kingjux/Venocyber-md";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VagzM5RGk1Fq9b6BCO0q";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VagzM5RGk1Fq9b6BCO0q";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nigeria/everywhere";
+global.github = process.env.GITHUB || "https://github.com/Dw3ller/Dweller-md";
+global.gurl = process.env.GURL || "https://wa.link/5sf1yo";
+global.website = process.env.GURL || "https://wa.link/5sf1yo";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg";
-global.devs = "255742862266";
-global.sudo = process.env.SUDO || "255742862266";
+global.devs = "2348125926761";
+global.sudo = process.env.SUDO || "2348125926761";
 global.owner = process.env.OWNER_NUMBER || "255742862266";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
@@ -29,7 +29,7 @@ global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "";
 global.waPresence = process.env.WAPRESENCE || "online";
-global.readcmds = process.env.READ_COMMAND || "false";
+global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝘨𝘳𝘦𝘢𝘵 𝘥𝘢𝘺 | 𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃",
-  author: process.env.PACK_AUTHER || "VENOCYBER",
-  packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "VENOCYBER-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "VENOCYBER",
+  caption: process.env.CAPTION || "𝘨𝘳𝘦𝘢𝘵 𝘥𝘢𝘺 | DweLLEr-𝐌𝐃",
+  author: process.env.PACK_AUTHER || "Dweller",
+  packname: process.env.PACK_NAME || "Dwells",
+  botname: process.env.BOT_NAME || "Dweller-𝐌𝐃",
+  ownername: process.env.OWNER_NAME || "Dw3ller",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "VENOCYBER").toUpperCase(),
+  LANG: (process.env.THEME || "Dwells").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
